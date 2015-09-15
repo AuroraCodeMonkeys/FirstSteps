@@ -7,7 +7,7 @@ Each activity is stored on GitHub as a `repository` and to complete the activity
    <img src="github_fork.PNG" width="500" height="250"><br><br><br>
 
 1. Open PyCharm and at the *Welcome screen* choose `check out from version control`<br><br>
-   <img src="pycharm_checkout.PNG" width="500" height="250"><br><br><br>
+   <img src="pycharm_checkout.png" width="500" height="250"><br><br><br>
    
 1. From the drop down list choose GitHub then in the Clone Repository dialog choose the repository you would like to 
 clone (ie copy to your computer) and the directory you would like to copy it to.<br><br>
