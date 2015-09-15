@@ -21,7 +21,7 @@ display the formatted file and follow the directions.<br>
 Our first program isn't going to be very exciting but it will allow me to make sure that you have everything set up
 properly. Double-click on the file first_steps.py to open it in an editor. The code should look like this.
 
-``` python 3.4
+```python
 __author__ = 'Your Name'
 
 # this bit is just to let me check you have set up pygame properly
@@ -34,6 +34,6 @@ P.init()
   
 ignore the first 8 lines and add the following code to line 9
 
-``` python
+```python
 print('my message to the world is ...')
 ```
