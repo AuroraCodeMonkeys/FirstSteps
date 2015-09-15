@@ -2,9 +2,14 @@
 OK assuming that you have successfully [set up the stuff you need to become a code monkey](https://github.com/AuroraCodeMonkeys/GettingStarted), now its time to start writing code.
 
 for each activity you need to do the following:
-1. fork the repository by clicking on the fork symbol in the top right-hand corer of the repository home page
-![fork the repository](fork_repo.PNG)
+
+1. fork the repository by clicking on the fork symbol in the top right-hand corer of the repository home page.  
+   <img src="fork_repo.PNG" width="500" height="250">  
+   .       
 1. Open PyCharm and at the 
+
+
+
 
 Your students then follow these steps for each assignment:
 
