@@ -16,6 +16,10 @@ clone (ie copy to your computer) and the directory you would like to copy it to.
 1. Once you have opened the activity, double click on the README.md file to open it, switch to the preview tab to
 display the formatted file and follow the directions.<br><br>
    <img src="pycharm_readme.PNG" width="500" height="250"><br><br><br>
+   
+   **Note: you will get a better formatted README file with pretty code formatting and better resolution pictures if you 
+   just read it in GitHub rather than in PyCharm.But it does mean you will have to be constantly switching between your 
+   browser and PyCharm to do the coding activity.**
 
 ##Finally its time to code
 Our first program isn't going to be very exciting but it will allow me to make sure that you have everything set up
