@@ -39,6 +39,8 @@ P.init()
 ignore the first 8 lines and add the following code to line 9. Replace the elipse (...) 
 with the message you would like to send to the world.<br><br>
 
+Now run your script be pressing the green arrow at the top of the code editor
+
 ```python
 print('my message to the world is ...')
 ```
